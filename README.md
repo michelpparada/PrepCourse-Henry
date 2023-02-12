@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del curso de fundamentos de Javascript de Henry
+Michel Peña
+Este es una prueba de como clonar un repositorio a nuestro local
